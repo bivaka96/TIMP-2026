@@ -2,7 +2,7 @@
 
 **Учебная группа:** 251-354  
 **Репозиторий:** [https://github.com/bivaka96/TIMP-2026](https://github.com/bivaka96/TIMP-2026)  
-**Wiki:** [Документация проекта]()
+**Wiki:** [Документация проекта](https://github.com/bivaka96/TIMP-2026/wiki)
 
 ---
 
