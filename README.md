@@ -59,7 +59,7 @@ TIMP_2026/
 ## Быстрый старт (Docker)
 
 ```bash
-git clone https://github.com/timofey3534/TIMP_2026.git](https://github.com/bivaka96/TIMP-2026.git
+git clone https://github.com/bivaka96/TIMP-2026.git
 cd TIMP_2026
 docker compose up --build
 ```
